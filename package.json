@@ -1,0 +1,19 @@
+{
+  "name": "smart-brains-api",
+  "version": "1.0.0",
+  "description": "Back-end for the smart-brains project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vmussato/smart-brains-api.git"
+  },
+  "author": "Vmussato",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vmussato/smart-brains-api/issues"
+  },
+  "homepage": "https://github.com/Vmussato/smart-brains-api#readme"
+}
